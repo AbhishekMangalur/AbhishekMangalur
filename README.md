@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="center">Project Links:<br>https://uniquebank.pythonanywhere.com<br>https://hrmsait.000webhostapp.com <br>https://lmsait.infinityfreeapp.com</h3>
+<h3 align="center">Project Links:<br>https://uniquebank.pythonanywhere.com
 
 ###
 
