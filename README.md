@@ -1,8 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abhishek</h1>
 
-###
-
-<h3 align="center">💻 Final Year ISE Student | Acharya Institute of Technology, Bengaluru</h3>
 
 ###
 
